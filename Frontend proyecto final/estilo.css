@@ -1,0 +1,29 @@
+body{
+  background-color: #dde0f4;
+  background-image: url(fondo.jpg);
+  background-size: cover;
+  opacity: inherit;
+}
+h1 {text-decoration: underline;
+font-size: 75px; }
+
+h2 {text-decoration: underline;
+font-size: 50px;}
+
+h3 {font-size: 30px;}
+
+h4 {font-size: 30px;}
+
+p {font-size: 20px;}
+section{
+color: white;
+background-color:#9f7acd;
+font-style:normal;
+font-size: 1.3em;
+font-variant: inherit;
+text-decoration: underline;
+}
+footer{
+  color: white;
+  background-color: black;
+}
