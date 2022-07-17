@@ -7,9 +7,11 @@ body{
 header {background: #9f7acd;
 border: black 5px solid;}
 
-nav{background-color: white;
+nav{
+  background-color: white;
 border: #9f7acd 5px solid;
-position: inherit;}
+position: inherit;
+}
 
 h1 {text-decoration: underline;
 font-size: 75px; }
@@ -18,15 +20,23 @@ h2 {text-decoration: underline;
 font-size: 50px;}
 
 
-h3 {font-size: 30px;}
+h3 {font-size: 40px;
+  background-color: white;
+border: #9f7acd 5px solid;
+position: inherit;}
 
-h4 {font-size: 30px;}
+
+h4 {font-size: 40px;
+  background-color: white;
+border: #9f7acd 5px solid;
+position: inherit;
+
 }
 
-p {font-size: 20px;}
+p {font-size: 30px;}
 
 section{
-color: white;
+color: black;
 background-color:#9f7acd;
 font-style:normal;
 font-size: 1.3em;
@@ -41,4 +51,15 @@ footer{
   color: black;
   background-color: white;
   border: #9f7acd 5px solid;
+}
+footer:hover {background-color: #9f7acd;}
+
+#elemento1:hover{
+ background-color: #9f7acd;
+}
+#elemento2:hover{
+ background-color: #9f7acd;
+}
+#elemento3:hover{
+ background-color: #9f7acd;
 }
